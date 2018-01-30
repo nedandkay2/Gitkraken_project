@@ -1,1 +1,9 @@
-Gitkraken_Project
+# exclude everything jpg
+*.jpg
+
+# exclude ext folder
+/ext/*
+
+# exclude all jpg files in images folder
+/images/*.jpg
+
